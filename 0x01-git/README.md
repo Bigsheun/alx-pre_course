@@ -1,7 +1,7 @@
 
 # Bigsheun
 
-- __[GitHub Account](github.com/softraysjohn)__ - high quality and fast image resize in browser.
+- __[GitHub Account](https://github.com/Bigsheun)__ - high quality and fast results.
 - __[Full Stack Developer](https://github.com/nodeca/babelfish/)__ - developer friendly
 
 
